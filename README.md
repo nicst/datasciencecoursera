@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Scientist’s Toolbox at Coursera
+The Data Scientist’s Toolbox course at Coursera
